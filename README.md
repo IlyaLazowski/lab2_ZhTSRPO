@@ -6,6 +6,6 @@
 
 Язык: Kotlin.  
 
-[SRS of program](https://github.com/IlyaLazowski/lab2_ZhTSRPO/blob/main/requirements/SRS.md)
+[SRS of program](https://github.com/IlyaLazowski/lab2_ZhTSRPO/blob/main/docs/requirements/SRS.md)
 
-[User interface images](https://github.com/IlyaLazowski/lab2_ZhTSRPO/tree/main/mocaps)
+[User interface images](https://github.com/IlyaLazowski/lab2_ZhTSRPO/tree/main/docs/mocaps)
