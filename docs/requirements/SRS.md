@@ -69,13 +69,17 @@ ____
   
   ![Окно для управления личной информацией пользователя](https://github.com/IlyaLazowski/lab2_ZhTSRPO/blob/main/mocaps/profile%20page.png)
 
-• Окно для добавления новой транзакции.
+• Окно для добавления новой транзакции с доходами.
   
-  ![Окно для добавления новой транзакции](https://github.com/IlyaLazowski/lab2_ZhTSRPO/blob/main/mocaps/transaction%20page.png)
+  ![Окно для добавления новой транзакции с доходами](https://github.com/IlyaLazowski/lab2_ZhTSRPO/blob/main/mocaps/transaction%20page.png)
+
+• Окно для добавления новой транзакции с расходами.
+  
+  ![Окно для добавления новой транзакции с расходами](https://github.com/IlyaLazowski/lab2_ZhTSRPO/blob/main/docs/mocaps/transaction2%20page%208.png)
 
 • Окно для просмотра графиков и истории транзакций.
   
-  ![Окно для просмотра графиков и истории транзакций](https://github.com/IlyaLazowski/lab2_ZhTSRPO/blob/main/mocaps/graphics%20page.png)
+  ![Окно для просмотра графиков и истории транзакций](https://github.com/IlyaLazowski/lab2_ZhTSRPO/blob/main/docs/mocaps/graphics%20page.png)
 
   Пример взаимодействия:
 
