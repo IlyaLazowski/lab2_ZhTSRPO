@@ -51,27 +51,27 @@ ____
 
 • Окно загрузки приложения.
   
-  ![Окно загрузки приложения](https://github.com/IlyaLazowski/lab2_ZhTSRPO/blob/main/mocaps/load%20page.png)
+  ![Окно загрузки приложения](https://github.com/IlyaLazowski/lab2_ZhTSRPO/blob/main/docs/mocaps/load%20page.png)
 
 • Стартовое окно при входе в приложение.
   
-  ![Стартовое окно при входе в приложение](https://github.com/IlyaLazowski/lab2_ZhTSRPO/blob/main/mocaps/start%20page.png)
+  ![Стартовое окно при входе в приложение](https://github.com/IlyaLazowski/lab2_ZhTSRPO/blob/main/docs/mocaps/start%20page.png)
 
 • Окно регистрации нового пользователя.
   
-  ![Окно регистрации нового пользователя](https://github.com/IlyaLazowski/lab2_ZhTSRPO/blob/main/mocaps/registration%20page.png)
+  ![Окно регистрации нового пользователя](https://github.com/IlyaLazowski/lab2_ZhTSRPO/blob/main/docs/mocaps/registration%20page.png)
 
 • Окно входа для зарегистрированного пользователя.
   
-  ![Окно входа для зарегистрированного пользователя](https://github.com/IlyaLazowski/lab2_ZhTSRPO/blob/main/mocaps/sign%20page.png)
+  ![Окно входа для зарегистрированного пользователя](https://github.com/IlyaLazowski/lab2_ZhTSRPO/blob/main/docs/mocaps/sign%20page.png)
 
 • Окно для управления личной информацией пользователя.
   
-  ![Окно для управления личной информацией пользователя](https://github.com/IlyaLazowski/lab2_ZhTSRPO/blob/main/mocaps/profile%20page.png)
+  ![Окно для управления личной информацией пользователя](https://github.com/IlyaLazowski/lab2_ZhTSRPO/blob/main/docs/mocaps/profile%20page.png)
 
 • Окно для добавления новой транзакции с доходами.
   
-  ![Окно для добавления новой транзакции с доходами](https://github.com/IlyaLazowski/lab2_ZhTSRPO/blob/main/mocaps/transaction%20page.png)
+  ![Окно для добавления новой транзакции с доходами](https://github.com/IlyaLazowski/lab2_ZhTSRPO/blob/main/docs/mocaps/transaction1%20page.png)
 
 • Окно для добавления новой транзакции с расходами.
   
